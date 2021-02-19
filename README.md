@@ -1,13 +1,11 @@
 <div align="left">
-	<h2>Hi, I'm Júlia and this is my Github :)</h2>
-  <hr>
-  <h3>I'm a Web Developer (and Software Engineering student)</h3>
+	<h3><b>Hi, I'm Júlia and this is my Github :)</b></h3>
+  <h4>I'm a Web Developer (and Software Engineering student)</h4>
   Interested in web development, software engineering and UI/UX
   <br>
   <br>
   <br>
-  <h2 align="left">I work (or worked) using:</h2>
-  <hr>
+  <h3 align="left"><b>I work (or worked) using:</b></h3>
   <div align="left">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23282C34)<br>
@@ -24,8 +22,7 @@
   ![AngularJS](https://img.shields.io/badge/-AngularJS-%23282C34?style=flat-square&logo=AngularJS&logoColor=dd1b16)<br>
 	</div>
   <br>
-  <h2 align="left">Github details:</h2>
-  <hr>
+  <h3 align="left"><b>Github details:</b></h3>
   <table>
     <tr>
       <td>
