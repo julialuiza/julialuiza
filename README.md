@@ -22,20 +22,4 @@
   ![AngularJS](https://img.shields.io/badge/-AngularJS-%23282C34?style=flat-square&logo=AngularJS&logoColor=dd1b16)<br>
 	</div>
   <br>
-  <h3 align="left"><b>Github details:</b></h3>
-  <table>
-    <tr>
-      <td>
-        <p align = "center">
-          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=julialuiza&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
-        </p>
-      </td>
-      <td>
-        <p align = "center">
-        <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=julialuiza&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-        <br>
-        </p>
-      </td>
-    </tr>
-  </table>
 </div>
