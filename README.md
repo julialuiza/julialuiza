@@ -1,6 +1,6 @@
 <div align="left">
 	<h3><b>Hi, I'm Júlia and this is my Github :)</b></h3>
-  <h4>I'm a Web Developer (and Software Engineering student)</h4>
+  <h4>I'm a Software Engineer</h4>
   Interested in web development, software engineering and UI/UX
   <br>
   <br>
